@@ -17,3 +17,44 @@ myStringArrays.last//sonuncuyu getir
 myStringArrays.sort()//kendince dizilim yapar
 
 var myNumberArrays = [1,2,3,4,5,6,7,8]
+myNumberArrays.append(11)//yeni bir eleman ekleme
+myNumberArrays.last
+myNumberArrays[1] = 21
+print(myNumberArrays)
+
+//Set
+//Dizi gibi fakat indexleme yok ve içinde sadece bir eleman bulundurur
+
+//Unordered colection unique elements
+
+var Set : Set = [1,2,3,4,5] // Sırasız koleksiyon
+Set.first
+var myStringSet : Set = ["a","b","c","a","b"]
+
+
+
+var myInternetArray = [1,2,3,1,2,5,6,2,1]
+//var myInternetSet = Set(myInternetArray)
+
+var mySet1 : Set = [1,2,3]
+var MySet2 : Set = [3,4,5]
+
+var Myset3 = mySet1.union(MySet2) // union birleştirme
+print(Myset3)
+
+
+
+//Dictionary
+//key-value pairing
+
+var myFavoriteDirectors = ["Pul Fiction" : "Tarantino", "Inception" : "Christopher Nolan", "The Shawshank Redemption" : "Frank Darabont"]
+
+myFavoriteDirectors["Pul Fiction"]
+
+myFavoriteDirectors["Pul Fiction"] = "Quentin Tarantino"
+myFavoriteDirectors["Seven Samurai"] = "Akira Kurisowa"
+print(myFavoriteDirectors)
+
+var myDictionary = ["Run" : 100, "Swim" : 200 ,"Basketball" : 300]
+myDictionary["Swim"]
+
