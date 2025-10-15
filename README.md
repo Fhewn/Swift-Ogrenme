@@ -32,6 +32,11 @@ Bash
 git clone https://github.com/Fhewn/Swift-Ogrenme.git
 İyi kodlamalar!
 
+
+
+
+
+
 English Version 🇬🇧
 Swift & iOS Learning Journey 🍎
 @Fhewn's Personal Development & Resource Hub
