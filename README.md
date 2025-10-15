@@ -4,7 +4,7 @@ Swift & iOS Öğrenme Yolculuğu 🍎
 👋 Hakkında
 Selamlar! Ben @Fhewn. Bu depo, Swift Programlama Dili ve iOS Mobil Uygulama Geliştirme serüvenimdeki kişisel notlarımı, kod pratiklerimi ve keşfettiğim önemli yapıları bir araya getirdiğim canlı bir arşividir.
 
-Başta Udemy iOS Geliştirme Kursu olmak üzere, öğrendiğim tüm bilgileri düzenli bir şekilde burada paylaşıyorum. Projenin temel amacı, hem kendi bilgi birikimimi kalıcı hale getirmek hem de benimle aynı yolda yürüyen diğer geliştiricilere güvenilir bir referans kaynağı sunmaktır.
+Başta [Udemy iOS Geliştirme Kursu](https://www.udemy.com/course/ios-gelistirme-kursu/) olmak üzere, öğrendiğim tüm bilgileri düzenli bir şekilde burada paylaşıyorum. Projenin temel amacı, hem kendi bilgi birikimimi kalıcı hale getirmek hem de benimle aynı yolda yürüyen diğer geliştiricilere güvenilir bir referans kaynağı sunmaktır.
 
 🎯 Temel Odak Alanları
 Depodaki içerik, modern bir iOS geliştiricisinin hakim olması gereken kritik konseptlere odaklanmıştır:
