@@ -27,8 +27,9 @@ Depoyu klonlayarak kodları inceleyebilir ve Xcode üzerinde anında denemeye ba
 🚀 Başlarken
 
 Projeyi yerel makinenize indirmek için aşağıdaki komutu kullanın:
-```
+
 Bash
+```
 git clone https://github.com/Fhewn/Swift-Ogrenme.git
 ```
 İyi kodlamalar!
@@ -68,8 +69,9 @@ Feel free to clone the repository, explore the code, and start experimenting in 
 🚀 Getting Started
 
 To get a local copy up and running, use the following command:
-```
+
 Bash
+```
 git clone https://github.com/Fhewn/Swift-Ogrenme.git
 ```
 Happy coding!
